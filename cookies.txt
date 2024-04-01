@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.marketingcentral.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	4fd3b30e1b19da6d89de571126123c96
+www.marketingcentral.com.br	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
